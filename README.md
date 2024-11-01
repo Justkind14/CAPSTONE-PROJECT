@@ -16,14 +16,15 @@ Findings
 
 #### Sales Overview
 
-- Total sales: $1,234,567
-- Average sales per product: $450
+- Total sales: 2,101,090.00
+- Average sales per product: 1,255.90
 - Total revenue by region:
-    - North: $400,000 (32%)
-    - South: $300,000 (24%)
-    - East: $200,000 (16%)
-    - West: $334,567 (28%)
+    - North: 387,000 
+    - South: 927,820 
+    - East: 485,925
+    - West: 300,345
 
+![Sales data table](https://github.com/user-attachments/assets/053f0265-af6e-4a5c-8b5f-73fcd851996a)
 
 
 
