@@ -26,5 +26,7 @@ Findings
 
 ![Sales data table](https://github.com/user-attachments/assets/053f0265-af6e-4a5c-8b5f-73fcd851996a)
 
+![Total sales by product Pivot](https://github.com/user-attachments/assets/408944c7-ca6a-4d09-840a-e95f1252786b)
 
+![Product by sales charts](https://github.com/user-attachments/assets/6c3a2be5-1b3f-46b6-9787-e9b1a4779054)
 
