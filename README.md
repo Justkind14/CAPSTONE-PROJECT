@@ -14,7 +14,7 @@ This project explores sales data from Queens supermarket to identify top-selling
 
 Findings
 
-#### Sales Overview
+#### Sales Overview/ Visuals
 
 - Total sales: 2,101,090.00
 - Average sales per product: 1,255.90
