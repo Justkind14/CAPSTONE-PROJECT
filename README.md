@@ -30,3 +30,6 @@ Findings
 
 ![Product by sales charts](https://github.com/user-attachments/assets/6c3a2be5-1b3f-46b6-9787-e9b1a4779054)
 
+![Region by sales pivot](https://github.com/user-attachments/assets/b446fbe5-7d6e-4bd9-a072-ac953567450b)
+
+![Region by Total sales chart](https://github.com/user-attachments/assets/a9f84936-f8f6-4419-b78e-bd07ac57256a)
