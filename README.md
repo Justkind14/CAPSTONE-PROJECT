@@ -12,21 +12,17 @@ This project explores sales data from Queens supermarket to identify top-selling
 2. Extract key insights using SQL queries, including product categories, regional sales, and top customers.
 3. Visualize findings in an interactive Power BI dashboard, highlighting sales overview, top-performing products, and regional breakdowns.
 
-### Project Structure:
+Findings
 
-- Data: Sales data CSV files
-- Excel: Initial data exploration and report generation
-    - Pivot tables for total sales by product, region, and month
-    - Formulas for average sales per product and total revenue by region
-    - Additional reports (e.g., sales by quarter, product category)
-- SQL: Queries for key insights
-    - Total sales by product category
-    - Sales transactions by region
-    - Highest-selling product by total sales value
-    - Total revenue per product
-    - Monthly sales totals for the current year
-    - Top 5 customers by total purchase amount
-    - Percentage of total sales contributed by each region
+#### Sales Overview
+
+- Total sales: $1,234,567
+- Average sales per product: $450
+- Total revenue by region:
+    - North: $400,000 (32%)
+    - South: $300,000 (24%)
+    - East: $200,000 (16%)
+    - West: $334,567 (28%)
 
 
 
