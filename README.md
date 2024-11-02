@@ -12,7 +12,7 @@ This project explores sales data from Queens supermarket to identify top-selling
 2. Extract key insights using SQL queries, including product categories, regional sales, and top customers.
 3. Visualize findings in an interactive Power BI dashboard, highlighting sales overview, top-performing products, and regional breakdowns.
 
-Findings
+Findings [https://drive.google.com/file/d/1x24fM0uK3UgewyJ3F3X-D8OB_O2uAs6Z/view?usp=sharing]
 
 #### Sales Overview/ Visuals
 
