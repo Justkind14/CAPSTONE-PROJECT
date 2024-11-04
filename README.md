@@ -26,7 +26,7 @@ This project leverages sales data to identify trends, strengths, and areas for i
 - Microsoft Excel (data cleaning, analysis) [Download Here](https://www.microsoft.com)
 - Structured Query Language (SQL) (data querying) [Download Here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)
 - Microsoft Power BI (data visualization) [Download Here](https://www.bing.com/search?pglt=43&q=powerbi.microsoft.com+download&cvid=0fae1f6dca6b4926aa1707cb15244dd6&gs_lcrp=EgRlZGdlKgYIAxAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxNDMzOGowajGoAgCwAgA&FORM=ANNTA1&DAF0=1&PC=U531)
-- Github (portfolio building)
+- Github (portfolio building)[Download Here](https://github.com/apps/desktop)
 
 ### Key Deliverables:
 
