@@ -23,7 +23,7 @@ This project leverages sales data to identify trends, strengths, and areas for i
 
 ### Tools Used:
 
-- Microsoft Excel (data cleaning, analysis)
+- Microsoft Excel (data cleaning, analysis) [Download Here] (https://www.microsof.com)
 - Structured Query Language (SQL) (data querying)
 - Microsoft Power BI (data visualization)
 - Github (portfolio building)
