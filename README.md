@@ -11,7 +11,7 @@
 
 [Sales Overview/ Visuals](#sales-overview/visuals)
 
-[Findings/Insights(#findings/insights)
+[Findings/Insights](#findings/insights)
 
 [Conclusion](#conclusion)
 
