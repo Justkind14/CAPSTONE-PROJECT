@@ -40,6 +40,9 @@ This project leverages sales data to identify trends, strengths, and areas for i
 
 #### Sales Overview/ Visuals
 
+![Sales charts dashboard](https://github.com/user-attachments/assets/0241f1b8-64ca-4779-931a-190129ba2b9c)
+
+
 - Total sales: 2,101,090.00
 - Average sales per product: 1,255.90
 - Total revenue by region:
