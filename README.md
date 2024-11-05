@@ -1,7 +1,7 @@
 #### CAPSTONE-PROJECT-(QUEENS SUPERMARKET SALES PERFORMANCE ANALYSIS)
+[Introduction](#introduction)
 
-
-Introduction:
+Introduction
 
 Welcome to the Queens Supermarket Performance Analysis project! As a retail store, understanding sales trends and patterns is crucial for informed decision-making. This project aims to uncover key insights from Queen supermarket sales data, providing a comprehensive view of the business's performance.
 
