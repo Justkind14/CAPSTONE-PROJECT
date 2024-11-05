@@ -11,7 +11,7 @@
 
 [Sales Overview/ Visuals](#sales-overview/visuals)
 
-[Findings and Insights](#findings and insights)
+[Findings/Insights(#findings/insights)
 
 [Conclusion](#conclusion)
 
@@ -137,7 +137,7 @@ Monthly Sales Analysis
 | Nov | 103,950.00 |
 | Dec | 49,300.00 |
 
-Findings and Insights
+Findings/Insights
 
 1. Shoes are the top-selling product, accounting for 29.2% of total sales.
 2. The South region drives nearly half of total sales.
