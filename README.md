@@ -50,4 +50,19 @@ This project leverages sales data to identify trends, strengths, and areas for i
     - South: 927,820 
     - East: 485,925
     - West: 300,345
+ 
+![Uploading Region vs sales.JPG…]()
 
+ 
+    - Product Sales Analysis
+
+| Product | Sum of Total Sales |
+| --- | --- |
+| Shoes | $613,380.00 |
+| Shirt | $485,600.00 |
+| Hat | $316,195.00 |
+| Gloves | $296,900.00 |
+| Jacket | $208,230.00 |
+| Socks | $180,785.00 |
+
+![Product vs sales](https://github.com/user-attachments/assets/f5325c5d-e70c-464c-894f-8337cfe7f3a2)
