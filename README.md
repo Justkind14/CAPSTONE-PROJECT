@@ -134,7 +134,14 @@ This analysis provides valuable insights into Queens Supermarket's sales perform
 ### Appendix
 
 1. Data cleaning and preparation process
-2. SQL queries[See Here](https://drive.google.com/file/d/1x24fM0uK3UgewyJ3F3X-D8OB_O2uAs6Z/view?usp=sharing)
+2. SQL queries SELECT Orderid, 
+       SUM(CAST(Quantity AS int) * CAST(Unitprice AS decimal(10, 2))) AS total_sales
+FROM salesDataset
+GROUP BY Orderid
+ORDER BY total_sales DESC;
+
+select * from [dbo].[SalesDataset]
+                 [See Here](https://drive.google.com/file/d/1x24fM0uK3UgewyJ3F3X-D8OB_O2uAs6Z/view?usp=sharing)
 3. Power BI dashboard screenshots
 
 
